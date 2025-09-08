@@ -14,6 +14,7 @@ class Right_Star_Pattern{
     }
 }
 
+
 Output: 
 * 
 * * 
