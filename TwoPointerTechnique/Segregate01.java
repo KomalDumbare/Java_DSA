@@ -39,3 +39,4 @@ public class Segregate01 {
     }
     
 }
+//https://github.com/KomalDumbare/Java_DSA
